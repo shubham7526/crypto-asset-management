@@ -1,0 +1,16 @@
+.asset-list-container{
+    background-color: darksalmon;
+    margin-left: 265px;
+    margin-right: 265px;
+    padding: 20px;
+    overflow: auto;
+    height: 815px;
+}
+
+.filter-button{
+    margin-left: 1000px;
+}
+
+.filter-button >label{
+    padding: 10px;
+}
